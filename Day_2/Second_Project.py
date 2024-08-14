@@ -13,3 +13,4 @@ print(f"Perfecto,"
       f"Usted {name} {surname}\n"
       f" gracias a ingresar {total_income}€ \n "
       f"recibirá un 13% del total, es decir {round(total_income * 13 / 100, 2)} €")
+
