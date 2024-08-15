@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a2591f9-e43a-4c7f-a2c2-f49e1b67eba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_3/Propiedades_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/Arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_3/Diccionarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_2/Second_Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/Second_Project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Arrays.executor": "Run",
+    "Python.Diccionarios.executor": "Run",
     "Python.First_Project.executor": "Run",
     "Python.Formatear_Cadenas.executor": "Run",
     "Python.Fragmentar.executor": "Run",
