@@ -30,4 +30,23 @@ dic = {"clave1": "a", "clave2": "b", "clave3": "c"}
 for each in dic.items():
     print(each)
 
+print("\n")
+lista_numeros = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
+suma_numeros = 0;
+for each in lista_numeros:
+    suma_numeros = suma_numeros + each;
+    print(suma_numeros)
 
+print("\n")
+lista_numeros = [1,5,8,7,6,8,2,5,2,6,4,8,5,9,8,3,5,4,2,5,6,4]
+suma_pares = 0
+suma_impares = 0
+
+for each in lista_numeros:
+    if (each % 2) == 0:
+        suma_pares = suma_pares + each
+    else:
+        suma_impares = suma_impares + each
+
+print(f"La suma de los numeros pares: {suma_pares}")
+print(f"La suma de los numeros impares: {suma_impares}")
