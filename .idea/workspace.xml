@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a2591f9-e43a-4c7f-a2c2-f49e1b67eba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_3/Project3_Solucionado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_3/Project3_Solucionado.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_3/Project3_Solucionado.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     "Python.Métodos.executor": "Run",
     "Python.Operadores.executor": "Run",
     "Python.Project3.executor": "Run",
+    "Python.Project3_Solucionado.executor": "Run",
     "Python.Propiedades_String.executor": "Run",
     "Python.Redondear.executor": "Run",
     "Python.Second_Project.executor": "Run",
