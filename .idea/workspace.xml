@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a2591f9-e43a-4c7f-a2c2-f49e1b67eba8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day_4/Loop While.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_4/Loop for.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4/Loop for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "Python.Formatear_Cadenas.executor": "Run",
     "Python.Fragmentar.executor": "Run",
     "Python.Index.executor": "Run",
+    "Python.Loop While.executor": "Run",
     "Python.Loop for.executor": "Run",
     "Python.Métodos.executor": "Run",
     "Python.Operadores.executor": "Run",
