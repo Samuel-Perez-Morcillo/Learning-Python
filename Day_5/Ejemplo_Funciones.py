@@ -85,8 +85,6 @@ def probar_suerte(lanzamiento, lista):
     else:
         return lista
 
-def probar_seuersz:
-    kjdjd KDKDBJS+PKKAJHDUDJKJCIHUVVB`Q´ÑOahsjgcusg8awdh  vale entonces este vide si que va a ser la polla ya ves chaval no se lo esperan y lo que se esperan de mi es mucho menos vou a a ser el me
-    
-moneda = lanzar_moneda()
-conseguir_lista = probar_suerte(moneda, lista_numeros)
+def probar_suerte():
+    moneda = lanzar_moneda()
+    conseguir_lista = probar_suerte(moneda, lista_numeros)

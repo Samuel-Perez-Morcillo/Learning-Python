@@ -1,4 +1,4 @@
-"""def devolver_distintos(num1, num2, num3):
+def devolver_distintos(num1, num2, num3):
     suma = num1 + num2 + num3
 
     if suma > 15:
@@ -17,7 +17,6 @@ num2 = int(input("Ingresa el segundo numero a sumar: "))
 num3 = int(input("Ingresa el tercer numero a sumar: "))
 
 devolver_distintos(num1, num2, num2)
-"""
 
 
 # Ejercicio 2
