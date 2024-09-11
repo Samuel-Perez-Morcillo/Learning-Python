@@ -6,7 +6,7 @@
 
 from random import choice
 
-palabras = ["infantil", "peregrino", "culo", "massachusets", "lisboa", "samuelillo"]
+palabras = ["infantil", "peregrino", "dermatologo", "massachusets", "lisboa", "samuelillo"]
 letras_correctas = []
 letras_incorrectas = []
 intentos = 6
@@ -67,7 +67,7 @@ def chequear_letra(letra_elegida, palabra_oculta, vidas, coincidencias, letras_u
 
 
 def perder(palabra_oculta):
-    print("Te Has Quedado Sin Vidas Sorry :(")
+    print("Te Has Quedado Sin Vidas Sorry :( ")
     print(f"La palabra oculta era {palabra_oculta}")
     return True
 
