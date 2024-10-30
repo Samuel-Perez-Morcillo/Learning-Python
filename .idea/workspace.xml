@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a2591f9-e43a-4c7f-a2c2-f49e1b67eba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_4/Rango.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_4/Loop While.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4/Loop While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_4/Project_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_4/Project_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +36,49 @@
     "Python.Arrays.executor": "Run",
     "Python.Booleanos.executor": "Run",
     "Python.Control_De_Flujo.executor": "Run",
+    "Python.Crear_Funciones.executor": "Run",
+    "Python.Create_and_Write_Documents.executor": "Run",
     "Python.Diccionarios.executor": "Run",
+    "Python.Directorios.executor": "Run",
+    "Python.Ejemplo_Funciones.executor": "Run",
+    "Python.Ejercicios_Udemy.executor": "Run",
+    "Python.Enumerador.executor": "Run",
     "Python.First_Project.executor": "Run",
     "Python.Formatear_Cadenas.executor": "Run",
     "Python.Fragmentar.executor": "Run",
+    "Python.Funciones_Dinamicas.executor": "Run",
     "Python.Index.executor": "Run",
+    "Python.Input_and_Output.executor": "Run",
+    "Python.Interacción_De_Funciones.executor": "Run",
     "Python.Loop While.executor": "Run",
     "Python.Loop for.executor": "Run",
     "Python.Métodos.executor": "Run",
+    "Python.New_Methods.executor": "Run",
     "Python.Operadores.executor": "Run",
     "Python.Operadores_De_Comparación.executor": "Run",
     "Python.Operadores_Lógicos.executor": "Run",
     "Python.Project3.executor": "Run",
     "Python.Project3_Solucionado.executor": "Run",
+    "Python.Project_4.executor": "Run",
+    "Python.Project_5.executor": "Run",
     "Python.Propiedades_String.executor": "Run",
+    "Python.Random.executor": "Run",
     "Python.Rango.executor": "Run",
     "Python.Redondear.executor": "Run",
+    "Python.Return.executor": "Run",
     "Python.Second_Project.executor": "Run",
     "Python.Tuples.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.args.executor": "Run",
+    "Python.comprension_de_listas.executor": "Run",
+    "Python.funciones.executor": "Run",
+    "Python.kwargs.executor": "Run",
+    "Python.match.executor": "Run",
+    "Python.min_and_max.executor": "Run",
     "Python.sets.executor": "Run",
+    "Python.zip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "Errors"
   }
