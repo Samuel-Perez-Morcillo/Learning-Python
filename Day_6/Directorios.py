@@ -16,7 +16,7 @@ print(archivo.read())"""
 # Otro metodo para poder abrir archivos alojados en otros directorios y además mas compatible
 # Es el uso del objeto Path
 
-from pathlib import Path
+from Pathlib import Path
 
 carpeta = Path("/Users/samuelperez/Desktop/Carpeta_Ruta_Alternativa_Python")
 archivo = carpeta / "Prueba_copia.txt"
